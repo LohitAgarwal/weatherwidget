@@ -1,0 +1,55 @@
+.image {
+	 	 border-radius: 50%;
+	 	 position: absolute;
+	 	 top: 200px;
+	 	 left: 850px;
+}
+
+
+   
+
+.Table {
+
+    border-collapse: collapse;
+    float: left;   
+    margin-top: 150px;
+    margin-left: 80px;
+    
+}
+
+td {
+    padding-top:.5em;
+    padding-bottom:.5em;
+}
+
+
+
+
+ .line1{ 
+            border-left: 3px solid black; 
+            height: 70px; 
+      
+        }
+     
+
+.line2{ 
+            border-left: 3px solid black; 
+            height: 90px; 
+      
+        }
+
+body{
+	
+	background: linear-gradient( to right,pink , white);
+
+    
+	
+}
+
+
+
+.Table1{
+	margin-top: 300px;
+	margin-left: 500px;
+
+}
